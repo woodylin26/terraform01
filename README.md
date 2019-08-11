@@ -8,4 +8,6 @@ This folder contains a set of Terraform examples. These examples each have their
 To try any example, clone this repository and run the following commands from within the each directory:
 
 $ terraform init
+
+
 $ terraform apply
